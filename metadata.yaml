@@ -1,5 +1,8 @@
 _repo: The-Gold-Thread-and-Wee-Davie-Two-Stories-for-the-Young_63572
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63572-h/images/cover.jpg
 creator:
   author:
     agent_name: Macleod, Norman
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4453
     wikipedia: https://en.wikipedia.org/wiki/Norman_Macleod_%281812%E2%80%931872%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63572#The-Gold-Thread-and-Wee-Davie-Two-Stories-for-the-Young
 gutenberg_issued: '2020-10-29'
 gutenberg_type: Text
 identifiers:
