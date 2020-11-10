@@ -1,0 +1,26 @@
+_repo: The-Gold-Thread-and-Wee-Davie-Two-Stories-for-the-Young_63572
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Macleod, Norman
+    birthdate: 1812
+    deathdate: 1872
+    gutenberg_agent_id: '4453'
+    url: http://www.gutenberg.org/2009/agents/4453
+    wikipedia: https://en.wikipedia.org/wiki/Norman_Macleod_%281812%E2%80%931872%29
+description: ''
+gutenberg_issued: '2020-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63572'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+- !lcsh 'Christian life -- Juvenile fiction'
+- GITenberg
+title: 'The Gold Thread; and, Wee Davie: Two Stories for the Young'
+url: http://www.gutenberg.org/ebooks/63572
